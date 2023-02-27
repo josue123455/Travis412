@@ -19,8 +19,19 @@ public class SimpleCalculatorTest {
 		assertEquals(calc.minus(5, 3), 2);
 	}
 		
+
+	@Test
+	public void testmultiply() {
+		SimpleCalculator calc = new SimpleCalculator();
+		assertEquals(calc.multiply(5, 3), 15);
+	}
+		
+	@Test
+	public void testdevide() {
+		SimpleCalculator calc = new SimpleCalculator();
+		assertEquals(calc.devide(4, 2), 2);
+	}
 	
 	
-	
-// last curly brase for code 	
+// last curly bracket for code 	
 }
