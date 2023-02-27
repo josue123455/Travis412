@@ -29,9 +29,10 @@ public class SimpleCalculatorTest {
 	@Test
 	public void testdevide() {
 		SimpleCalculator calc = new SimpleCalculator();
-		assertEquals(calc.devide(4, 2), 2);
+		assertEquals(calc.divide(4, 2), 2);
 	}
 	
 	
 // last curly bracket for code 	
 }
+
