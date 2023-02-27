@@ -53,6 +53,6 @@ public class SimpleCalculatorTest {
 //		assertEquals(calc.divide(4, 0), 0);
 //	}
 	
-// last curly bracket for code 	
+// last curly bracket for code 	had to rearun since the cicrle ci was taking to long to process
 }
 
